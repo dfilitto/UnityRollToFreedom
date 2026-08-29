@@ -39,6 +39,8 @@ Neste projeto, desenvolvemos o Roll to Freedom, um jogo arcade 3D baseado em fí
 
 📦 Assets do Projeto: https://github.com/dfilitto/UnityRollToFreedom
 
+🌐 Padlet: https://padlet.com/danilofilitto/roll-to-freedom-b9ihzagymqt1t10f
+
 🎓 Conheça nossos cursos completos na Udemy: https://www.udemy.com/user/danilo-filitto/
 
 #Unity #GameDev #CriacaoDeJogos #DesenvolvimentoDeJogos #GameDesign #Unity3D #IndieDev #GDD #Brainstorming #ProgramacaoDeJogos #RollToFreedom #JogosDigitais #AprenderUnity #Csharp
