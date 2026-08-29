@@ -1,3 +1,7 @@
+![](https://raw.githubusercontent.com/dfilitto/UnityRollToFreedom/refs/heads/main/ROLL%20TO%20FREEDOM.jpg)
+
+# ROLL TO FREEDOM
+
 Sejam muito bem-vindos a esta série prática de desenvolvimento de jogos! Aqui você não vai apenas aprender a programar na Unity, mas sim entender todo o processo de criação de um jogo do início ao fim: desde a concepção de ideias com Brainstorming e documentação com GDD (Game Design Document) até a implementação prática e polimento na engine.
 
 Neste projeto, desenvolvemos o Roll to Freedom, um jogo arcade 3D baseado em física e contra o relógio (time-attack). Nele, você controla uma esfera mágica com um personagem preso em seu interior. O objetivo é cruzar plataformas suspensas e alcançar a chave mágica que abre portais para novas fases dimensionais — até alcançar a fase final e conquistar a tão sonhada liberdade. Mas cuidado: cair no abismo ou deixar o tempo esgotar significa reiniciar o desafio!
